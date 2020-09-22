@@ -1,4 +1,4 @@
-About me... <br>
+**About me...** <br>
 Recently completed master's degree in mathematics and computer science, from the University of Split (Croatia) <br>
 Career interests: artificial intelligence - emphasis on deep learning (research and development). <br>
 
