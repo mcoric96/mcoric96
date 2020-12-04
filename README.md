@@ -1,5 +1,9 @@
 ![alt text](https://i.imgflip.com/4oy7zo.jpg)
 
+<p>
+  <img src="https://i.imgflip.com/4oy7zo.jpg" height=75 width=50>
+</p>
+
 ## About me
 Recently completed master's degree in mathematics and computer science, from the University of Split (Croatia) <br>
 Career interests:
