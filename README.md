@@ -1,10 +1,10 @@
-**About me...** <br>
+## About me
 Recently completed master's degree in mathematics and computer science, from the University of Split (Croatia) <br>
 Career interests:
 - artificial intelligence - emphasis on deep learning and reinforcement learning (R&D)
 - building autonomous intelligent systems <br>
 
-Capabilities:
+## Capabilities
 - mathematics (Bachelor's and Master's degree)
 - programming (Python, C#, R)
 - algorithms (complexity and analysis, ability to understand complex algorithms)
