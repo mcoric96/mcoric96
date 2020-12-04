@@ -1,5 +1,5 @@
 <p>
-  <img src="https://i.imgflip.com/4oy7zo.jpg" height=250 width=240>
+  <img src="https://i.imgflip.com/4oy7zo.jpg" height=300 width=290>
 </p>
 
 ## About me
