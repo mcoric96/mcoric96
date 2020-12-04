@@ -1,7 +1,5 @@
-![alt text](https://i.imgflip.com/4oy7zo.jpg)
-
 <p>
-  <img src="https://i.imgflip.com/4oy7zo.jpg" height=75 width=50>
+  <img src="https://i.imgflip.com/4oy7zo.jpg" height=750 width=500>
 </p>
 
 ## About me
