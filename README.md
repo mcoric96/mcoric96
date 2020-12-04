@@ -7,6 +7,7 @@ Capabilities:
 - programming (Python, C#, R)
 - algorithms (complexity and analysis)
 - machine learning: deep learning, reinforcement learning <br>
+
 Masters thesis: Deep generative models <br>
 How to reach me: [LinkedIn](https://hr.linkedin.com/in/mate-%C4%87ori%C4%87) <br>
 <!--
