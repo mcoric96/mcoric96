@@ -1,5 +1,8 @@
 ## About me
-Recently completed master's degree in mathematics and computer science, from the University of Split (Croatia) <br>
+Artificial intelligence researcher at Faculty of Mechanical engineering in Zagreb (Croatia).
+I work as research project assistant for autonomous driving project.
+
+Completed master's degree in mathematics and computer science, from the University of Split (Croatia) <br>
 Career interests:
 - artificial intelligence - emphasis on deep learning and reinforcement learning (R&D)
 - building autonomous intelligent systems <br>
