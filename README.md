@@ -1,6 +1,6 @@
 ## About me
 Artificial intelligence researcher at Faculty of Mechanical engineering in Zagreb (Croatia). <br>
-I work as research project assistant for autonomous driving project.
+I work as research project assistant.
 
 Completed master's degree in mathematics and computer science, from the University of Split (Croatia) <br>
 Career interests:
