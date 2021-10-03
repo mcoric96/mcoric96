@@ -5,7 +5,8 @@ I work as research project assistant.
 Completed master's degree in mathematics and computer science, from the University of Split (Croatia) <br>
 Career interests:
 - artificial intelligence - emphasis on deep learning and reinforcement learning (R&D)
-- building autonomous intelligent systems <br>
+- building autonomous intelligent systems
+- autonomous vehicles <br>
 
 ## Capabilities
 - mathematics (Bachelor's and Master's degree)
