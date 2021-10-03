@@ -1,5 +1,5 @@
 ## About me
-Artificial intelligence researcher at Faculty of Mechanical engineering in Zagreb (Croatia). <br>
+Artificial intelligence researcher and PhD student at Faculty of Mechanical engineering in Zagreb (Croatia). <br>
 I work as research project assistant.
 
 Completed master's degree in mathematics and computer science, from the University of Split (Croatia) <br>
