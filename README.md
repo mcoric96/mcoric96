@@ -15,7 +15,7 @@ Career interests:
 
 Completed master's degree in mathematics and computer science, from the University of Split (Croatia) <br>
 
-PhD research: prediction of pedestrian crossing behavior at uncontrolled crosswalks.
+PhD research: prediction of pedestrian crossing behavior at uncontrolled crosswalks. <br>
 Masters thesis: Deep generative models <br>
 How to reach me: [LinkedIn](https://hr.linkedin.com/in/mate-%C4%87ori%C4%87) <br>
 <!--
