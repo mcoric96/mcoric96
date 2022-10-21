@@ -7,6 +7,8 @@ Career interests:
 - prediction of pedestrian behavior
 - autonomous vehicles. <br>
 
+**Open to freelance work**: data science, machine learning, data insights, mathematical modelling. <br>
+
 ## Capabilities
 - mathematics (Bachelor's and Master's degree)
 - programming (Python, C#, R)
