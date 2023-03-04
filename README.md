@@ -1,13 +1,14 @@
 ## About me
+ADAS Software engineer at AVL (Zagreb) <br>
 Artificial intelligence researcher and PhD student. <br>
+
+**Open to freelance work**: data science, machine learning, data insights, mathematical modelling. <br>
 
 Career interests:
 - artificial intelligence - emphasis on deep learning and reinforcement learning
 - building autonomous intelligent systems
 - prediction of pedestrian behavior
 - autonomous vehicles. <br>
-
-**Open to freelance work**: data science, machine learning, data insights, mathematical modelling. <br>
 
 ## Capabilities
 - mathematics (Bachelor's and Master's degree)
