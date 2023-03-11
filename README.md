@@ -1,5 +1,5 @@
 ## About me
-ADAS Software engineer at AVL (Zagreb) <br>
+ADAS Simulation engineer at AVL (Zagreb) <br>
 Artificial intelligence researcher and PhD student. <br>
 
 **Open to freelance work**: data science, machine learning, data insights, mathematical modelling. <br>
