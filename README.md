@@ -1,6 +1,5 @@
 ## About me
-ADAS Simulation engineer (machine learning) at AVL (Zagreb) <br>
-Artificial intelligence researcher and PhD student. <br>
+ADAS machine learning engineer at AVL (Zagreb) <br>
 
 **Open to freelance work**: data science, machine learning, data insights, mathematical modelling. <br>
 
