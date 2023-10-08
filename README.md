@@ -6,8 +6,6 @@ ADAS machine learning engineer at AVL (Zagreb) <br>
 Career interests:
 - artificial intelligence - emphasis on deep learning and reinforcement learning
 - building autonomous intelligent systems
-- prediction of pedestrian behavior
-- autonomous vehicles. <br>
 
 ## Capabilities
 - mathematics (Bachelor's and Master's degree)
@@ -17,7 +15,6 @@ Career interests:
 
 Completed master's degree in mathematics and computer science, from the University of Split (Croatia) <br>
 
-PhD research: prediction of pedestrian crossing behavior at uncontrolled crosswalks. <br>
 Masters thesis: Deep generative models <br>
 How to reach me: [LinkedIn](https://hr.linkedin.com/in/mate-%C4%87ori%C4%87) <br>
 <!--
